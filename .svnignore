@@ -1,0 +1,15 @@
+node_modules
+yarn-error.log
+dist
+
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+/dist
+
+# umi
+.umi
+.umi-production
+.umi-test
+.env.local
